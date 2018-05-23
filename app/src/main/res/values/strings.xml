@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PhotoBlog</string>
+    <string name="email_hint">Your email</string>
+    <string name="pass_hint">Password</string>
+    <string name="name_hint">User Name</string>
+    <string name="img_description">Logo Image</string>
+    <string name="login_btn_text">Login to Acconut</string>
+    <string name="login_reg_btn_text">Register A new Account</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_settings_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="login_page_text">Login Page</string>
+    <string name="reg_page_text">Register New Account</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="reg_btn_text">Create New Account</string>
+    <string name="reg_login_text">Already have an account? Login!</string>
+    <string name="reg_acct_logo">Register Account</string>
+    <string name="setup_btn_name_text">Save Acct Settings</string>
+    <string name="post_desc_hint">Add Description</string>
+    <string name="post_btn">Post Blog</string>
+    <string name="post_logo">Photo Blog</string>
+    <string name="bottom_home_txt">Home</string>
+    <string name="bottom_notif_text">Notifications</string>
+    <string name="bottom_acct_text">Account</string>
+    <string name="ipsum_txt">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+        ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa
+        qui officia deserunt mollit anim id est laborum.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="notification_fragment">Notification Fragment</string>
+    <string name="account_fragment">Account Fragment</string>
+    <string name="user_name">Username</string>
+    <string name="blog_post_date">BlogPostDate</string>
+    <string name="blog_image">blog Image </string>
+    <string name="comment_pg_title">Comments:</string>
+    <string name="comment_hint">Enter comments here</string>
+    <string name="comment_btn">Send Comment</string>
+    <string name="comment_message">Loading Comment</string>
+    <string name="like_big_img">Like</string>
+    <string name="comment_count">Comment</string>
+    <string name="big_imag_main">Big Image</string>
+    <string name="delete_blog_post">Delete</string>
+</resources>
